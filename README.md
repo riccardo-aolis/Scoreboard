@@ -1,4 +1,4 @@
-**Coding exercize - Sportradar**
+**Coding exercise - Sportradar**
 
 Library to add, remove and update scores for football matches.
 
